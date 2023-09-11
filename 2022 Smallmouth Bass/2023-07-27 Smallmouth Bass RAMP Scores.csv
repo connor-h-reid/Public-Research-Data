@@ -1,0 +1,571 @@
+NestID,Treatment,TL,Metric,Score
+1,TENS,436,Tail,0
+1,TENS,436,Eyes,1
+1,TENS,436,Equilibrium,1
+1,TENS,436,Flex,1
+1,TENS,436,Gill,1
+2,TMS,455,Tail,0
+2,TMS,455,Eyes,1
+2,TMS,455,Equilibrium,0
+2,TMS,455,Flex,0
+2,TMS,455,Gill,1
+3,TENS,370,Tail,0
+3,TENS,370,Eyes,1
+3,TENS,370,Equilibrium,1
+3,TENS,370,Flex,1
+3,TENS,370,Gill,1
+4,TENS Control,450,Tail,1
+4,TENS Control,450,Eyes,1
+4,TENS Control,450,Equilibrium,1
+4,TENS Control,450,Flex,1
+4,TENS Control,450,Gill,1
+5,TMS Control,482,Tail,0
+5,TMS Control,482,Eyes,1
+5,TMS Control,482,Equilibrium,1
+5,TMS Control,482,Flex,1
+5,TMS Control,482,Gill,1
+6,TMS Control,495,Tail,1
+6,TMS Control,495,Eyes,1
+6,TMS Control,495,Equilibrium,1
+6,TMS Control,495,Flex,1
+6,TMS Control,495,Gill,1
+7,Angled Control,410,Tail,0
+7,Angled Control,410,Eyes,1
+7,Angled Control,410,Equilibrium,1
+7,Angled Control,410,Flex,1
+7,Angled Control,410,Gill,1
+8,PES,414,Tail,0
+8,PES,414,Eyes,1
+8,PES,414,Equilibrium,1
+8,PES,414,Flex,0
+8,PES,414,Gill,1
+9,Angled Control,468,Tail,0
+9,Angled Control,468,Eyes,1
+9,Angled Control,468,Equilibrium,1
+9,Angled Control,468,Flex,1
+9,Angled Control,468,Gill,1
+11,TMS,425,Tail,0
+11,TMS,425,Eyes,1
+11,TMS,425,Equilibrium,0
+11,TMS,425,Flex,1
+11,TMS,425,Gill,1
+12,TMS,411,Tail,0
+12,TMS,411,Eyes,1
+12,TMS,411,Equilibrium,1
+12,TMS,411,Flex,1
+12,TMS,411,Gill,1
+13,Angled Control,477,Tail,0
+13,Angled Control,477,Eyes,1
+13,Angled Control,477,Equilibrium,1
+13,Angled Control,477,Flex,1
+13,Angled Control,477,Gill,1
+14,TMS Control,480,Tail,0
+14,TMS Control,480,Eyes,1
+14,TMS Control,480,Equilibrium,1
+14,TMS Control,480,Flex,1
+14,TMS Control,480,Gill,1
+15,Angled Control,468,Tail,0
+15,Angled Control,468,Eyes,1
+15,Angled Control,468,Equilibrium,1
+15,Angled Control,468,Flex,1
+15,Angled Control,468,Gill,1
+16,PES,476,Tail,0
+16,PES,476,Eyes,1
+16,PES,476,Equilibrium,1
+16,PES,476,Flex,0
+16,PES,476,Gill,1
+17,Angled Control,455,Tail,1
+17,Angled Control,455,Eyes,1
+17,Angled Control,455,Equilibrium,1
+17,Angled Control,455,Flex,1
+17,Angled Control,455,Gill,1
+18,PES,371,Tail,0
+18,PES,371,Eyes,1
+18,PES,371,Equilibrium,0
+18,PES,371,Flex,0
+18,PES,371,Gill,0
+19,TENS,443,Tail,1
+19,TENS,443,Eyes,1
+19,TENS,443,Equilibrium,1
+19,TENS,443,Flex,1
+19,TENS,443,Gill,1
+20,TMS Control,419,Tail,1
+20,TMS Control,419,Eyes,1
+20,TMS Control,419,Equilibrium,1
+20,TMS Control,419,Flex,1
+20,TMS Control,419,Gill,1
+22,Angled Control,469,Tail,0
+22,Angled Control,469,Eyes,1
+22,Angled Control,469,Equilibrium,1
+22,Angled Control,469,Flex,1
+22,Angled Control,469,Gill,1
+23,PES,465,Tail,0
+23,PES,465,Eyes,1
+23,PES,465,Equilibrium,0
+23,PES,465,Flex,0
+23,PES,465,Gill,0
+24,PES,370,Tail,0
+24,PES,370,Eyes,1
+24,PES,370,Equilibrium,1
+24,PES,370,Flex,0
+24,PES,370,Gill,1
+25,PES,435,Tail,0
+25,PES,435,Eyes,1
+25,PES,435,Equilibrium,1
+25,PES,435,Flex,0
+25,PES,435,Gill,0
+26,TENS Control,398,Tail,1
+26,TENS Control,398,Eyes,1
+26,TENS Control,398,Equilibrium,1
+26,TENS Control,398,Flex,1
+26,TENS Control,398,Gill,1
+27,TMS,450,Tail,0
+27,TMS,450,Eyes,1
+27,TMS,450,Equilibrium,1
+27,TMS,450,Flex,1
+27,TMS,450,Gill,1
+28,TMS,503,Tail,0
+28,TMS,503,Eyes,1
+28,TMS,503,Equilibrium,1
+28,TMS,503,Flex,1
+28,TMS,503,Gill,1
+29,TMS,472,Tail,1
+29,TMS,472,Eyes,1
+29,TMS,472,Equilibrium,1
+29,TMS,472,Flex,1
+29,TMS,472,Gill,1
+30,TMS,451,Tail,0
+30,TMS,451,Eyes,1
+30,TMS,451,Equilibrium,1
+30,TMS,451,Flex,1
+30,TMS,451,Gill,1
+31,TMS Control,481,Tail,1
+31,TMS Control,481,Eyes,1
+31,TMS Control,481,Equilibrium,1
+31,TMS Control,481,Flex,1
+31,TMS Control,481,Gill,1
+32,Angled Control,440,Tail,1
+32,Angled Control,440,Eyes,1
+32,Angled Control,440,Equilibrium,1
+32,Angled Control,440,Flex,1
+32,Angled Control,440,Gill,1
+34,TENS,474,Tail,1
+34,TENS,474,Eyes,1
+34,TENS,474,Equilibrium,1
+34,TENS,474,Flex,1
+34,TENS,474,Gill,1
+35,TENS Control,385,Tail,1
+35,TENS Control,385,Eyes,1
+35,TENS Control,385,Equilibrium,1
+35,TENS Control,385,Flex,0
+35,TENS Control,385,Gill,1
+36,TMS Control,475,Tail,0
+36,TMS Control,475,Eyes,1
+36,TMS Control,475,Equilibrium,1
+36,TMS Control,475,Flex,1
+36,TMS Control,475,Gill,1
+37,Angled Control,465,Tail,0
+37,Angled Control,465,Eyes,1
+37,Angled Control,465,Equilibrium,1
+37,Angled Control,465,Flex,1
+37,Angled Control,465,Gill,1
+38,PES,478,Tail,0
+38,PES,478,Eyes,1
+38,PES,478,Equilibrium,0
+38,PES,478,Flex,1
+38,PES,478,Gill,0
+39,TENS Control,498,Tail,1
+39,TENS Control,498,Eyes,1
+39,TENS Control,498,Equilibrium,1
+39,TENS Control,498,Flex,1
+39,TENS Control,498,Gill,1
+40,Angled Control,450,Tail,1
+40,Angled Control,450,Eyes,1
+40,Angled Control,450,Equilibrium,1
+40,Angled Control,450,Flex,1
+40,Angled Control,450,Gill,1
+41,PES,432,Tail,0
+41,PES,432,Eyes,1
+41,PES,432,Equilibrium,0
+41,PES,432,Flex,0
+41,PES,432,Gill,0
+42,TMS,459,Tail,0
+42,TMS,459,Eyes,1
+42,TMS,459,Equilibrium,1
+42,TMS,459,Flex,1
+42,TMS,459,Gill,1
+43,TMS,445,Tail,0
+43,TMS,445,Eyes,1
+43,TMS,445,Equilibrium,0
+43,TMS,445,Flex,1
+43,TMS,445,Gill,1
+44,PES,435,Tail,0
+44,PES,435,Eyes,1
+44,PES,435,Equilibrium,0
+44,PES,435,Flex,0
+44,PES,435,Gill,0
+45,PES,394,Tail,0
+45,PES,394,Eyes,1
+45,PES,394,Equilibrium,1
+45,PES,394,Flex,0
+45,PES,394,Gill,1
+46,TMS Control,456,Tail,1
+46,TMS Control,456,Eyes,1
+46,TMS Control,456,Equilibrium,1
+46,TMS Control,456,Flex,1
+46,TMS Control,456,Gill,1
+47,TENS Control,426,Tail,0
+47,TENS Control,426,Eyes,1
+47,TENS Control,426,Equilibrium,1
+47,TENS Control,426,Flex,1
+47,TENS Control,426,Gill,1
+48,TENS Control,502,Tail,0
+48,TENS Control,502,Eyes,1
+48,TENS Control,502,Equilibrium,1
+48,TENS Control,502,Flex,1
+48,TENS Control,502,Gill,1
+49,TMS,456,Tail,0
+49,TMS,456,Eyes,1
+49,TMS,456,Equilibrium,1
+49,TMS,456,Flex,1
+49,TMS,456,Gill,1
+50,TENS,455,Tail,1
+50,TENS,455,Eyes,1
+50,TENS,455,Equilibrium,1
+50,TENS,455,Flex,1
+50,TENS,455,Gill,1
+51,TENS Control,365,Tail,0
+51,TENS Control,365,Eyes,1
+51,TENS Control,365,Equilibrium,1
+51,TENS Control,365,Flex,1
+51,TENS Control,365,Gill,1
+52,TENS,424,Tail,0
+52,TENS,424,Eyes,1
+52,TENS,424,Equilibrium,1
+52,TENS,424,Flex,1
+52,TENS,424,Gill,1
+53,TMS Control,475,Tail,1
+53,TMS Control,475,Eyes,1
+53,TMS Control,475,Equilibrium,1
+53,TMS Control,475,Flex,1
+53,TMS Control,475,Gill,1
+54,TENS Control,430,Tail,1
+54,TENS Control,430,Eyes,1
+54,TENS Control,430,Equilibrium,1
+54,TENS Control,430,Flex,1
+54,TENS Control,430,Gill,1
+55,TMS Control,461,Tail,0
+55,TMS Control,461,Eyes,1
+55,TMS Control,461,Equilibrium,1
+55,TMS Control,461,Flex,1
+55,TMS Control,461,Gill,1
+56,PES,383,Tail,0
+56,PES,383,Eyes,1
+56,PES,383,Equilibrium,1
+56,PES,383,Flex,0
+56,PES,383,Gill,1
+58,TENS Control,474,Tail,1
+58,TENS Control,474,Eyes,1
+58,TENS Control,474,Equilibrium,1
+58,TENS Control,474,Flex,1
+58,TENS Control,474,Gill,1
+61,TENS,493,Tail,0
+61,TENS,493,Eyes,1
+61,TENS,493,Equilibrium,1
+61,TENS,493,Flex,1
+61,TENS,493,Gill,1
+62,TMS Control,449,Tail,1
+62,TMS Control,449,Eyes,1
+62,TMS Control,449,Equilibrium,1
+62,TMS Control,449,Flex,1
+62,TMS Control,449,Gill,1
+63,TMS,425,Tail,0
+63,TMS,425,Eyes,1
+63,TMS,425,Equilibrium,1
+63,TMS,425,Flex,1
+63,TMS,425,Gill,1
+65,TENS,469,Tail,1
+65,TENS,469,Eyes,1
+65,TENS,469,Equilibrium,1
+65,TENS,469,Flex,1
+65,TENS,469,Gill,1
+66,Angled Control,412,Tail,1
+66,Angled Control,412,Eyes,1
+66,Angled Control,412,Equilibrium,1
+66,Angled Control,412,Flex,1
+66,Angled Control,412,Gill,1
+67,TENS Control,505,Tail,1
+67,TENS Control,505,Eyes,1
+67,TENS Control,505,Equilibrium,1
+67,TENS Control,505,Flex,1
+67,TENS Control,505,Gill,1
+68,TMS,394,Tail,0
+68,TMS,394,Eyes,1
+68,TMS,394,Equilibrium,1
+68,TMS,394,Flex,1
+68,TMS,394,Gill,1
+69,TENS,470,Tail,0
+69,TENS,470,Eyes,1
+69,TENS,470,Equilibrium,1
+69,TENS,470,Flex,1
+69,TENS,470,Gill,1
+70,TENS,491,Tail,0
+70,TENS,491,Eyes,1
+70,TENS,491,Equilibrium,1
+70,TENS,491,Flex,1
+70,TENS,491,Gill,1
+72,TMS,500,Tail,0
+72,TMS,500,Eyes,1
+72,TMS,500,Equilibrium,1
+72,TMS,500,Flex,1
+72,TMS,500,Gill,1
+73,Angled Control,380,Tail,1
+73,Angled Control,380,Eyes,1
+73,Angled Control,380,Equilibrium,1
+73,Angled Control,380,Flex,1
+73,Angled Control,380,Gill,1
+74,TENS,447,Tail,1
+74,TENS,447,Eyes,1
+74,TENS,447,Equilibrium,1
+74,TENS,447,Flex,1
+74,TENS,447,Gill,1
+75,TMS,450,Tail,1
+75,TMS,450,Eyes,1
+75,TMS,450,Equilibrium,1
+75,TMS,450,Flex,1
+75,TMS,450,Gill,1
+76,TENS,492,Tail,0
+76,TENS,492,Eyes,1
+76,TENS,492,Equilibrium,1
+76,TENS,492,Flex,1
+76,TENS,492,Gill,1
+77,Angled Control,530,Tail,0
+77,Angled Control,530,Eyes,1
+77,Angled Control,530,Equilibrium,1
+77,Angled Control,530,Flex,1
+77,Angled Control,530,Gill,1
+78,TMS Control,409,Tail,0
+78,TMS Control,409,Eyes,1
+78,TMS Control,409,Equilibrium,1
+78,TMS Control,409,Flex,1
+78,TMS Control,409,Gill,1
+79,TMS Control,382,Tail,0
+79,TMS Control,382,Eyes,1
+79,TMS Control,382,Equilibrium,1
+79,TMS Control,382,Flex,1
+79,TMS Control,382,Gill,1
+80,TMS Control,412,Tail,1
+80,TMS Control,412,Eyes,1
+80,TMS Control,412,Equilibrium,1
+80,TMS Control,412,Flex,1
+80,TMS Control,412,Gill,1
+81,TENS Control,488,Tail,1
+81,TENS Control,488,Eyes,1
+81,TENS Control,488,Equilibrium,1
+81,TENS Control,488,Flex,0
+81,TENS Control,488,Gill,1
+82,TMS Control,399,Tail,1
+82,TMS Control,399,Eyes,1
+82,TMS Control,399,Equilibrium,1
+82,TMS Control,399,Flex,1
+82,TMS Control,399,Gill,1
+83,TENS Control,435,Tail,0
+83,TENS Control,435,Eyes,1
+83,TENS Control,435,Equilibrium,1
+83,TENS Control,435,Flex,1
+83,TENS Control,435,Gill,1
+84,TENS Control,430,Tail,0
+84,TENS Control,430,Eyes,1
+84,TENS Control,430,Equilibrium,1
+84,TENS Control,430,Flex,1
+84,TENS Control,430,Gill,1
+85,Angled Control,433,Tail,1
+85,Angled Control,433,Eyes,1
+85,Angled Control,433,Equilibrium,1
+85,Angled Control,433,Flex,1
+85,Angled Control,433,Gill,1
+86,TENS Control,480,Tail,0
+86,TENS Control,480,Eyes,1
+86,TENS Control,480,Equilibrium,1
+86,TENS Control,480,Flex,1
+86,TENS Control,480,Gill,1
+87,TENS Control,447,Tail,0
+87,TENS Control,447,Eyes,1
+87,TENS Control,447,Equilibrium,1
+87,TENS Control,447,Flex,1
+87,TENS Control,447,Gill,1
+88,PES,436,Tail,0
+88,PES,436,Eyes,1
+88,PES,436,Equilibrium,1
+88,PES,436,Flex,0
+88,PES,436,Gill,1
+90,TMS Control,461,Tail,0
+90,TMS Control,461,Eyes,1
+90,TMS Control,461,Equilibrium,1
+90,TMS Control,461,Flex,1
+90,TMS Control,461,Gill,1
+91,PES,426,Tail,1
+91,PES,426,Eyes,1
+91,PES,426,Equilibrium,1
+91,PES,426,Flex,0
+91,PES,426,Gill,0
+92,PES,433,Tail,0
+92,PES,433,Eyes,1
+92,PES,433,Equilibrium,0
+92,PES,433,Flex,0
+92,PES,433,Gill,1
+93,Angled Control,391,Tail,1
+93,Angled Control,391,Eyes,1
+93,Angled Control,391,Equilibrium,1
+93,Angled Control,391,Flex,1
+93,Angled Control,391,Gill,1
+94,TENS,450,Tail,1
+94,TENS,450,Eyes,1
+94,TENS,450,Equilibrium,1
+94,TENS,450,Flex,1
+94,TENS,450,Gill,1
+95,TENS,478,Tail,0
+95,TENS,478,Eyes,1
+95,TENS,478,Equilibrium,1
+95,TENS,478,Flex,0
+95,TENS,478,Gill,1
+97,TENS,401,Tail,1
+97,TENS,401,Eyes,1
+97,TENS,401,Equilibrium,1
+97,TENS,401,Flex,1
+97,TENS,401,Gill,1
+98,Angled Control,395,Tail,0
+98,Angled Control,395,Eyes,1
+98,Angled Control,395,Equilibrium,1
+98,Angled Control,395,Flex,1
+98,Angled Control,395,Gill,1
+99,TMS,404,Tail,0
+99,TMS,404,Eyes,1
+99,TMS,404,Equilibrium,1
+99,TMS,404,Flex,1
+99,TMS,404,Gill,1
+102,TMS Control,431,Tail,1
+102,TMS Control,431,Eyes,1
+102,TMS Control,431,Equilibrium,1
+102,TMS Control,431,Flex,1
+102,TMS Control,431,Gill,1
+103,TENS,368,Tail,0
+103,TENS,368,Eyes,1
+103,TENS,368,Equilibrium,1
+103,TENS,368,Flex,0
+103,TENS,368,Gill,1
+104,Angled Control,319,Tail,1
+104,Angled Control,319,Eyes,1
+104,Angled Control,319,Equilibrium,1
+104,Angled Control,319,Flex,1
+104,Angled Control,319,Gill,1
+105,TMS,475,Tail,0
+105,TMS,475,Eyes,1
+105,TMS,475,Equilibrium,0
+105,TMS,475,Flex,1
+105,TMS,475,Gill,1
+106,TENS Control,490,Tail,1
+106,TENS Control,490,Eyes,1
+106,TENS Control,490,Equilibrium,1
+106,TENS Control,490,Flex,1
+106,TENS Control,490,Gill,1
+107,TMS,465,Tail,0
+107,TMS,465,Eyes,1
+107,TMS,465,Equilibrium,1
+107,TMS,465,Flex,1
+107,TMS,465,Gill,1
+109,TENS Control,475,Tail,1
+109,TENS Control,475,Eyes,1
+109,TENS Control,475,Equilibrium,1
+109,TENS Control,475,Flex,1
+109,TENS Control,475,Gill,1
+110,Angled Control,373,Tail,1
+110,Angled Control,373,Eyes,1
+110,Angled Control,373,Equilibrium,1
+110,Angled Control,373,Flex,1
+110,Angled Control,373,Gill,1
+111,PES,410,Tail,0
+111,PES,410,Eyes,1
+111,PES,410,Equilibrium,1
+111,PES,410,Flex,0
+111,PES,410,Gill,0
+112,PES,448,Tail,0
+112,PES,448,Eyes,1
+112,PES,448,Equilibrium,1
+112,PES,448,Flex,0
+112,PES,448,Gill,1
+114,TENS Control,425,Tail,0
+114,TENS Control,425,Eyes,1
+114,TENS Control,425,Equilibrium,1
+114,TENS Control,425,Flex,1
+114,TENS Control,425,Gill,1
+115,PES,371,Tail,0
+115,PES,371,Eyes,1
+115,PES,371,Equilibrium,1
+115,PES,371,Flex,0
+115,PES,371,Gill,1
+117,TENS Control,385,Tail,1
+117,TENS Control,385,Eyes,1
+117,TENS Control,385,Equilibrium,1
+117,TENS Control,385,Flex,1
+117,TENS Control,385,Gill,1
+119,PES,394,Tail,0
+119,PES,394,Eyes,1
+119,PES,394,Equilibrium,1
+119,PES,394,Flex,0
+119,PES,394,Gill,0
+120,TENS Control,420,Tail,0
+120,TENS Control,420,Eyes,1
+120,TENS Control,420,Equilibrium,1
+120,TENS Control,420,Flex,1
+120,TENS Control,420,Gill,1
+147,TMS Control,494,Tail,0
+147,TMS Control,494,Eyes,1
+147,TMS Control,494,Equilibrium,1
+147,TMS Control,494,Flex,1
+147,TMS Control,494,Gill,1
+154,Angled Control,450,Tail,0
+154,Angled Control,450,Eyes,1
+154,Angled Control,450,Equilibrium,1
+154,Angled Control,450,Flex,1
+154,Angled Control,450,Gill,1
+320,TENS,472,Tail,0
+320,TENS,472,Eyes,1
+320,TENS,472,Equilibrium,1
+320,TENS,472,Flex,1
+320,TENS,472,Gill,1
+321,TMS Control,486,Tail,0
+321,TMS Control,486,Eyes,1
+321,TMS Control,486,Equilibrium,1
+321,TMS Control,486,Flex,1
+321,TMS Control,486,Gill,1
+322,TMS,452,Tail,0
+322,TMS,452,Eyes,1
+322,TMS,452,Equilibrium,1
+322,TMS,452,Flex,1
+322,TMS,452,Gill,1
+333,Angled Control,345,Tail,1
+333,Angled Control,345,Eyes,1
+333,Angled Control,345,Equilibrium,1
+333,Angled Control,345,Flex,1
+333,Angled Control,345,Gill,1
+363,TMS,411,Tail,1
+363,TMS,411,Eyes,1
+363,TMS,411,Equilibrium,1
+363,TMS,411,Flex,1
+363,TMS,411,Gill,1
+088a,TENS,492,Tail,1
+088a,TENS,492,Eyes,1
+088a,TENS,492,Equilibrium,1
+088a,TENS,492,Flex,1
+088a,TENS,492,Gill,1
+M123,TMS Control,454,Tail,1
+M123,TMS Control,454,Eyes,1
+M123,TMS Control,454,Equilibrium,1
+M123,TMS Control,454,Flex,1
+M123,TMS Control,454,Gill,1
+M166,PES,486,Tail,0
+M166,PES,486,Eyes,1
+M166,PES,486,Equilibrium,1
+M166,PES,486,Flex,0
+M166,PES,486,Gill,0
