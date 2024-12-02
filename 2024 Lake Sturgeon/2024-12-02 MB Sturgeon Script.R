@@ -20,7 +20,8 @@ library(nnet)
 
 # Data for Part 1 (Immobilisation Pilot)
 
-pilot=read.csv("C:/Users/CHR/Documents/FECPL/2024/Manitoba/Data/MB Part 1 Data.csv")
+#For "pilot", load the "MB Part 1 Data.csv" file. 
+pilot=read.csv(file.choose())
 pilot$Treatment=as.factor(pilot$Treatment)
 levels(pilot$Treatment)
 levels(pilot$Treatment)=c("Control","cDC","TENS")
@@ -55,12 +56,14 @@ Anova(massmod,type="II",test.statistic="F")
 
 # Data for Part 2 (Main Part)
 
-surgerydat=read.csv("C:/Users/CHR/Documents/FECPL/2024/Manitoba/Data/MB Part 2 Surgery Data.csv")
+#For "surgerydat", load the "MB Part 2 Surgery Data.csv" file. 
+surgerydat=read.csv(file.choose())
 surgerydat$Treatment=as.factor(surgerydat$Treatment)
 surgerydat=surgerydat[surgerydat$FishID!="2",]
 str(surgerydat)
 
-behavdat1=read.csv("C:/Users/CHR/Documents/FECPL/2024/Manitoba/Data/MB Part 2 Single Behaviour Scores.csv")
+#For "behavdat1", load the "MB Part 2 Single Behaviour Scores.csv" file. 
+behavdat1=read.csv(file.choose())
 behavdat1$Fish=as.factor(behavdat1$Fish)
 behavdat1$Treatment=as.factor(behavdat1$Treatment)
 behavdat1$Tank=as.factor(behavdat1$Tank)
@@ -75,7 +78,8 @@ treatorder <- c("Baseline","Handling","TENS","MS-222","Clove Oil")
 
 # Part 2 - Fork lengths and masses vs. treatments
 
-part2sizedat=read.csv("C:/Users/CHR/Documents/FECPL/2024/Manitoba/Data/MB Part 2 Size Data.csv")
+#For "part2sizedat", load the "MB Part 2 Size Data.csv" file. 
+part2sizedat=read.csv(file.choose())
 str(part2sizedat)
 
 mean(part2sizedat$FL,na.rm=T)
@@ -774,7 +778,8 @@ ggplot(surfemm,aes(x=factor(Treatment,level=treatorder),y=prob))+
 
 ##### Part II: Blood Data #####
 
-blood=read.csv("C:/Users/CHR/Documents/FECPL/2024/Manitoba/Data/MB Part 2 Blood Data.csv")
+#For "blood", load the "MB Part 2 Blood Data.csv" file. 
+blood=read.csv(file.choose())
 blood$Treatment=as.factor(blood$Treatment)
 blood$Time=as.factor(blood$Time)
 blood$Plate=as.factor(blood$Plate)
