@@ -4,8 +4,8 @@ Hello! This is the folder containing data and analysis code for the project,
 The uploaded files include R files and data files (as .CSVs) used in the R code. Anyone checking these out should be able to run the R code as-is, except for updating the read.csv() functions with wherever the downloaded data files are located. 
 
 Uploaded data files include: 
-"BC Sturgeon General Data.csv": A spreadsheet with setline-captured fish data (times, procedures, fish measurements, glucose and lactate, accelerometer times, etc.)
-"BC Baseline Blood Data.csv": A spreadsheet with timings, measurements, and blood chemistry responses for angled baseline fish
-"CSVs for Analyses": A file folder containing manually trimmed CSVs with the biologger data (accelerometer, temperature, and depth data) for every fish
+• "BC Sturgeon General Data.csv": A spreadsheet with setline-captured fish data (times, procedures, fish measurements, glucose and lactate, accelerometer times, etc.)
+• "BC Baseline Blood Data.csv": A spreadsheet with timings, measurements, and blood chemistry responses for angled baseline fish
+• "CSVs for Analyses": A file folder containing manually trimmed CSVs with the biologger data (accelerometer, temperature, and depth data) for every fish. Files are labelled according to tag ID number (e.g., 034) which corresponds with the tag ID numbers found in the "BC Sturgeon General Data.csv" file
 
 For any inquiries relating to the analyses, data (processed or raw), code, or really anything else relevant to the work, please reach out to me at connorreid@cmail.carleton.ca.
