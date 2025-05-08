@@ -1,0 +1,1 @@
+These are the biologger data files for every fish (accelerometer, temperature, and pressure/depth data). File names are ID numbers corresponding to tag IDs found in the master data file. 
